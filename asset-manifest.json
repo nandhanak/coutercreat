@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/bucreate/static/js/main.1123b6c0.js",
-    "index.html": "/bucreate/index.html",
-    "main.1123b6c0.js.map": "/bucreate/static/js/main.1123b6c0.js.map"
+    "main.js": "/coutercreat/static/js/main.2bd1dfa9.js",
+    "index.html": "/coutercreat/index.html",
+    "main.2bd1dfa9.js.map": "/coutercreat/static/js/main.2bd1dfa9.js.map"
   },
   "entrypoints": [
-    "static/js/main.1123b6c0.js"
+    "static/js/main.2bd1dfa9.js"
   ]
 }
